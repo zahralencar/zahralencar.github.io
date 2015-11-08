@@ -1,0 +1,37 @@
+
+            h1 {
+                color:darkseagreen;
+                font-family: 'Coming Soon';
+                text-align: center;
+                font-size: 55;
+            }
+
+            img {
+                width: 250px; }
+            body {
+                background-color:beige;
+            }
+p {
+    color: darkseagreen;
+    text-align: center;
+    font-size: 20;
+    font-family: sans-serif;
+}
+h2 {
+    color: darkolivegreen;
+    text-align: center;
+    font-size: 25;
+    font-family: sans-serif;
+
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button {
+    background-color: darkseagreen;
+    text-align: center;
+}
